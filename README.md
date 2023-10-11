@@ -7,7 +7,7 @@
 
 - 🌱Atualmente estou aprendendo **Python, R**
 
-- 📝 Me pergunte sobre **Power Bi, SQL**
+- 📝 Me pergunte sobre **Power Bi, SQL, Excel**
 
 - 📫 Contato **julio_alves1902@hotmail.com**
 
