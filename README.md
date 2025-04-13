@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Me chamo Julio Alves</h1>
-<h3 align="center">Gosto de simplificar dados</h3>
+<h1 align="center">Olá 👋, Me chamo Julio Cesar</h1>
+<h3 align="center">Gosto de transformar dados em informações valiosas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julioa&label=Profile%20views&color=0e75b6&style=flat" alt="julioa" /> </p>
 
