@@ -5,7 +5,7 @@
 
 - ⛏ Estou trabalhando em **Projetos pessoais**
 
-- 🌱Atualmente estou aprendendo **Python, R**
+- 🌱Atualmente estou aprendendo **Python**
 
 - 📝 Me pergunte sobre **Power Bi, SQL, Excel**
 
